@@ -1,2 +1,2 @@
-serve:
-	node index.js
+dn:
+	node ./simple-contract/index.js
