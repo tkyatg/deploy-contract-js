@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
     "fs": "^0.0.1-security",
     "solc": "^0.8.17"
   }
